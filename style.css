@@ -1,0 +1,38 @@
+/* font-family: 'Bungee Shade', cursive;
+font-family: 'Kanit', sans-serif; */
+
+body {
+  font-family: "Kanit", sans-serif;
+  background: -webkit-linear-gradient(
+    top,
+    rgb(255, 251, 175),
+    rgb(11, 3, 255)
+    );
+    color: white
+}
+
+#logo {
+  padding-right: 15%;
+}
+
+.container {
+  text-align: center;
+}
+#imagen {
+  width: 80%;
+  height: 50%;
+}
+#nosotros {
+  padding-top: 5%;
+  width: 80%;
+  font-size: 120%;
+
+}
+
+#titulo {
+  font-family: "Bungee Shade", cursive;
+  color: rgb(197, 255, 143);
+  font-size: 200%;
+  font-weight: bold;
+  padding-bottom: 2rem;
+}
